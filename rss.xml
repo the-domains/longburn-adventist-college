@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Longburn Adventist College]]></title>
+        <description><![CDATA[Longburn Adventist College]]></description>
+        <link>https://thegrid.ai/longburn-adventist-college/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 23:02:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/longburn-adventist-college/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About LAC]]></title>
+            <description><![CDATA[<article><h1>About LAC</h1><p>What is Longburn Adventist College?</p><img src="http://www.lac.school.nz/images/UPLOADS/LAC_motto_poster-01.jpg"></article>]]></description>
+            <link>http://www.lac.school.nz/index.php/about-us</link>
+            <guid isPermaLink="false">ae31e118-c0f5-4908-8de3-60c09c43220a</guid>
+            <pubDate>Mon, 02 Nov 2015 23:02:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
