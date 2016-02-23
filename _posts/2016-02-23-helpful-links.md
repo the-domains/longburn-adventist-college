@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: What do Seventh-day Adventist believe?
-datePublished: '2016-02-23T04:38:53.687Z'
-dateModified: '2016-02-23T04:37:57.167Z'
+datePublished: '2016-02-23T06:53:12.465Z'
+dateModified: '2016-02-23T06:53:03.559Z'
 author: []
 title: HELPFUL LINKS
+sourcePath: _posts/2016-02-23-helpful-links.md
+published: true
 authors: []
 publisher:
   name: lac.school.nz
   domain: www.lac.school.nz
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-helpful-links.md
-published: true
 url: helpful-links/index.html
 _context: 'http://schema.org'
 _type: Article
