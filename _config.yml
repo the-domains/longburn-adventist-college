@@ -1,7 +1,7 @@
 name: Longburn Adventist College
 favicon: null
-layout_spectrum: 0.57101
-typography_spectrum: 0.63132
+layout_spectrum: 0.56408
+typography_spectrum: 0.49368
 title: Longburn Adventist College
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#d1d8ed'
     - '#7988c3'
   brandStrength: 0.625
-  lightness: 0.5
+  lightness: 0.6875
   saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
